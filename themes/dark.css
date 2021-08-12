@@ -1,5 +1,5 @@
 .skin_background {
-		background: radial-gradient(circle,#484848 0,#000 100%);
+	background: radial-gradient(circle,#484848 0,#000 100%);
   	color: #fafafa;
 }
 
@@ -9,13 +9,13 @@
 }
 
 .ui_window {
-		box-shadow: 1px 0 #000, 0 1px #000, 1px 1px #000, inset 1px 1px #fff, 0 0 150px 1px rgb(110 146 156 / 50%);
-		background: #121212;
+	box-shadow: 1px 0 #000, 0 1px #000, 1px 1px #000, inset 1px 1px #fff, 0 0 150px 1px rgb(110 146 156 / 50%);
+	background: #121212;
   	color: #fafafa;
 }
 
 .ui_explorer, .ui_explorer span, .ui_menu__item,.ui_menu__item__text, .ui_window__body,.js-mask {
-		background: #121212;
+	background: #121212;
   	color: #fafafa;
 }
 
@@ -26,7 +26,7 @@
 }
 
 /* IFrames */
-.ui_window__iframe {
-		background: #121212 !important;
+/*.ui_window__iframe {
+	background: #121212 !important;
   	color: #fafafa !important;
-}
+}*/
