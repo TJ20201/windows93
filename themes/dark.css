@@ -14,7 +14,7 @@
   	color: #fafafa;
 }
 
-.ui_explorer, .ui_explorer span, .ui_menu__item,.ui_menu__item__text, .ui_window__body,.js-mask {
+.ui_explorer, .ui_explorer span, .ui_menu__item,.ui_menu__item__text {
 	background: #121212;
   	color: #fafafa;
 }
